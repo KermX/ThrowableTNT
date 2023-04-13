@@ -1,0 +1,6 @@
+##velocity to apply to tnt when it is thrown
+TNT_Velocity: 0.75
+##Amount of tnt to take from the player
+TNT_Cost: 1
+##Amount of durability to take from the flint and steel
+Durability_Cost: 1

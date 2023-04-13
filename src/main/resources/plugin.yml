@@ -2,3 +2,9 @@ name: ThrowableTNT
 version: '${project.version}'
 main: me.kermx.throwabletnt.ThrowableTNT
 api-version: 1.17
+author: KermX
+commands:
+  throwabletnt:
+    description: Reload the configuration file for ThrowableTNT
+    usage: /throwabletnt reload
+    permission: throwabletnt.reload
