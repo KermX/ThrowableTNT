@@ -1,0 +1,4 @@
+name: ThrowableTNT
+version: '${project.version}'
+main: me.kermx.throwabletnt.ThrowableTNT
+api-version: 1.17
